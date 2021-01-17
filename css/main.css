@@ -42,6 +42,10 @@ header {
 	background: #483d8b;
 }
 
+body {
+	background: #998899;
+}
+
 /*Footer*/
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
